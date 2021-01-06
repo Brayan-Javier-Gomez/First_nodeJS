@@ -1,0 +1,17 @@
+{
+    "name": "bases_node",
+    "version": "1.0.0",
+    "description": "Esta es una aplicacion de linea de comandos que permite mostrar las tablas de multiplicacion y guardarlas en archivos de texto a nuestro ordenador",
+    "main": "app.js",
+    "dependencies": {
+        "colors": "^1.4.0",
+        "nodemon": "^2.0.6",
+        "yargs": "^16.2.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Brayan Gomez",
+    "license": "ISC"
+}
